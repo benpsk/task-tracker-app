@@ -98,7 +98,7 @@ const App = () => {
         />
         <Routes>
           <Route
-            path='/'
+            path='/task-tracker-app'
             element={
               <>
                 {showAddTask && <AddTask onAdd={addTask} />}

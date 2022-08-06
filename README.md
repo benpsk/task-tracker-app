@@ -20,4 +20,4 @@ npm run start
 ```
 ---
 
-Online demo - https://benspk.github.io/task-tracker-app
+Online demo - https://benpsk.github.io/task-tracker-app
