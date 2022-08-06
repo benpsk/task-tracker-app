@@ -6,7 +6,7 @@ import Tasks from './components/Tasks'
 import AddTask from './components/AddTask'
 import About from './components/About'
 
-const API = 'https://my-json-server.typicode.com/benpsk/task-tracker-server';
+const API = 'http://localhost:5000';
 
 const App = () => {
   const [showAddTask, setShowAddTask] = useState(false)
